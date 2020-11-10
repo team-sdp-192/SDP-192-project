@@ -7,6 +7,10 @@ double Summ(double a, double b) {
     return a + b;
 }
 
+void Foo() {
+    cout << "Foo" << endl;
+}
+
 int main()
 {
     double a, b;
